@@ -1,6 +1,3 @@
-# package: com.bbquantum.idempotencygateway.Utility
-# Equivalent to: UtilityClass.java
-
 import time
 import threading
 
