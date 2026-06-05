@@ -1,6 +1,3 @@
-# package: com.bbquantum.idempotencygateway.Service
-# Equivalent to: PaymentService.java
-
 import time
 
 from fastapi.responses import JSONResponse
