@@ -1,5 +1,3 @@
-# package: com.bbquantum.idempotencygateway.DTOs
-# Equivalent to: StoredInfo.java
 
 import time
 
